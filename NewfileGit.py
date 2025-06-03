@@ -1,0 +1,1 @@
+print("HTP code B2206005")
